@@ -12,9 +12,9 @@
 
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 * **Backend:** Node.js, Express.js
-* **Database:** MongoDB, PostgreSQL, Supabase
-* **AI:** OpenAI, LangChain, AI Agents
-* **Tools:** Git, GitHub, Docker, Vercel
+* **Database:** MongoDB, SQL, Supabase
+* **AI:** OpenAI,AI Agents
+* **Tools:** Git, GitHub, Vercel
 
 ### 🌱 Currently Exploring
 
