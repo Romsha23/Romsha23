@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE @ VIT Bhopal** 
 
-💻 Full-Stack Developer specializing in **Next.js, MERN, TypeScript, and PostgreSQL**.
+💻 Full-Stack Developer specializing in **Next.js, TypeScript**.
 
 🤖 Passionate about **Generative AI, LLMs, and AI Agents**, building production-ready applications.
 
