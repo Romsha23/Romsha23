@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE @ VIT Bhopal** 
 
-💻 Full-Stack Developer specializing in **Next.js, TypeScript**.
+💻 Full-Stack Developer specializing in AI-Powered applications development.
 
 🤖 Passionate about **Generative AI, LLMs, and AI Agents**, building production-ready applications.
 
@@ -10,10 +10,10 @@
 
 ### 🛠️ Tech Stack
 
+* **AI:** Generative AI, LLMs, and AI Agents,open AI
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB, SQL, Supabase
-* **AI:** OpenAI,AI Agents
 * **Tools:** Git, GitHub, Vercel
 
 ### 🌱 Currently Exploring
