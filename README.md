@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE @ VIT Bhopal** 
 
-💻 Full-Stack Developer specializing in AI-Powered applications development.
+💻SOFTWARE Developer specializing in AI-Powered applications development.
 
 🤖 Passionate about **Generative AI, LLMs, and AI Agents**, building production-ready applications.
 
