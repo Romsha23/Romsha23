@@ -10,10 +10,10 @@
 
 ### 🛠️ Tech Stack
 
-* **AI:** Generative AI, LLMs, and AI Agents,open AI
+* **AI:** Generative AI, LLMs,RAG, and AI Agents,open AI
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB, SQL, Supabase
+* **Backend:** FASTAPI, Node.js, Express.js
+* **Database:** Pgvector, SQL, Supabase
 * **Tools:** Git, GitHub, Vercel
 
 ### 🌱 Currently Exploring
@@ -22,7 +22,7 @@ System Design • Scalable Backends • Agentic AI
 
 ### 🎯 Open to
 
-Software Engineering & Full-Stack Internship Opportunities
+Software Engineering & Ai-engineering Internship Opportunities
 
 ## 🤝 Connect with Me
 
