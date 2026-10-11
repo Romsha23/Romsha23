@@ -1,39 +1,20 @@
 # Hi there 👋, I'm Romsha Wadhwa
 
-🎓 **B.Tech CSE @ VIT Bhopal** 
-
-💻SOFTWARE Developer specializing in AI-Powered applications development.
-
-🤖 Passionate about **Generative AI, LLMs, and AI Agents**, building production-ready applications.
-
-🏆 **Top 700 – Ericsson Edge Academia 2026**
+🎓 Final-Year B.Tech CSE Student @ VIT Bhopal  
+🤖 Aspiring AI/ML Engineer | Generative AI | LLMs | RAG | AI Agents  
+💻 Software Development | Backend APIs | Scalable Applications  
+🏆 Top 700 – Ericsson Edge Academia 2026
 
 ### 🛠️ Tech Stack
+- **AI:** Generative AI, LLMs, RAG, AI Agents, Gemini AI, OpenAI
+- **Languages:** Python, Java, SQL
+- **Development:** FastAPI, React, Next.js, Node.js, REST APIs
+- **Databases:** PostgreSQL, pgvector, Supabase
+- **Tools:** Git, GitHub, Vercel
 
-* **AI:** Generative AI, LLMs,RAG, and AI Agents,open AI
-* **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-* **Backend:** FASTAPI, Node.js, Express.js
-* **Database:** Pgvector, SQL, Supabase
-* **Tools:** Git, GitHub, Vercel
+🎯 **Open to AI/ML, Generative AI & Software Engineering Internships**
 
-### 🌱 Currently Exploring
+### 🤝 Connect
+[LinkedIn](https://www.linkedin.com/in/romsha-wadhwa-838838278/) • [Email](mailto:romsha2303@gmail.com)
 
-System Design • Scalable Backends • Agentic AI
-
-### 🎯 Open to
-
-Software Engineering & Ai-engineering Internship Opportunities
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/romsha-wadhwa-838838278/">
-    <img src="https://img.shields.io/badge/LinkedIn-Romsha%20Wadhwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:romsha2303@gmail.com">
-    <img src="https://img.shields.io/badge/Email-romsha2303%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-*"Code. Build. Learn. Repeat."* 🚀
+*"Learn. Build. Innovate."* 🚀
