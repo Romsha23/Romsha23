@@ -6,9 +6,9 @@
 🏆 Top 700 – Ericsson Edge Academia 2026
 
 ### 🛠️ Tech Stack
-- **AI:** Generative AI, LLMs, RAG, AI Agents, Gemini AI, OpenAI
+- **AI:** Generative AI, LLMs, RAG, AI Agents,Langchain,Langgraph, Gemini AI, OpenAI
 - **Languages:** Python, Java, SQL
-- **Development:** FastAPI, React, Next.js, Node.js, REST APIs
+- **Development:** FastAPI, React, REST APIs
 - **Databases:** PostgreSQL, pgvector, Supabase
 - **Tools:** Git, GitHub, Vercel
 
